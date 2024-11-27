@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Paula Gudiela, Master's student in biotechnology at the National University of Colombia</h1>
-<h3 align="center">A passionate Biological Engineer who is starting to write codes</h3>
+<h1 align="center">Hi 👋</h1>
+<h3 align="center">I'm Paula Gudiela, Master's student in biotechnology at the National University of Colombia, I´m a passionate Biological Engineer who is starting to write codes</h3>
 
 - 🔭 I’m currently working in **the area of ​​animal biotechnology, focusing on fish through a study of integrative taxonomy.**
 
